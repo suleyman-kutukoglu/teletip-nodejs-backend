@@ -4,7 +4,7 @@
 
 ### Veri Tabanı
 
-Kullanılan MySQL sunucusunda (eğer yoksa Xammp kullanabilirsiniz) DB_HASTANE_TELETIP adında bir veritabanı oluşturulur ve Sorgu.sql içerisindeki sorgular çalıştırılır. Bu sayede bütün tablolar ve veriler hazır olarak gelecektir.
+Kullanılan MySQL sunucusunda (eğer yoksa Xampp kullanabilirsiniz) DB_HASTANE_TELETIP adında bir veritabanı oluşturulur ve Sorgu.sql içerisindeki sorgular çalıştırılır. Bu sayede bütün tablolar ve veriler hazır olarak gelecektir.
 
 ### NodeJS 
 ```
